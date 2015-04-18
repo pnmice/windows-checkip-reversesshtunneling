@@ -1,6 +1,8 @@
 
 @echo off
 
+ECHO start > ip.log
+
 SET count=0
 SET subnet=192.168.1
 
